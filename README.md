@@ -11,5 +11,5 @@ ToxicRohit/ToxicRohit is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/?username=RohitRawat &show_icons=true&theme=dark)](https://github.com/RohitRawat) ![Rohit Rawat's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRawat&layout=compact&theme=dark)  
+![Rohit Rawat's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRawat&layout=compact&theme=dark)  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitRawat&theme=dark" width="400" height="195" style="border: 2px solid white;">
